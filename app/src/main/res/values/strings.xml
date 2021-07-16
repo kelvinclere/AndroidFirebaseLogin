@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidFirebaseLogin</string>
+    <string name="web_client_id">kelvinmutethiamuthomi@gmail.com</string>
+    <string name="this_is_main_activity_sign_in_to_move_next_activity">This is main activity, sign in to move next activity.</string>
+</resources>
